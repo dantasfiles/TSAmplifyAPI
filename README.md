@@ -2,4 +2,4 @@ Using Typescript with AWS Amplify API in React Native, with a particular focus o
 
 See the full post for instructions and details
 
-https://dantasfiles.substack.com/p/using-typescript-with-aws-amplify-api-3788d722869
+https://medium.com/@dantasfiles/using-typescript-with-aws-amplify-api-3788d722869
